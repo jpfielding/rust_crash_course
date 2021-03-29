@@ -40,5 +40,5 @@ pub fn run() {
         *x *= 2;
     }
 
-    println!("{:?}", numbers);
+    println!("numbers vec: {:?}", numbers);
 }
